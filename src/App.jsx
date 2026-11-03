@@ -6,6 +6,7 @@ import Courses from './components/Courses/Courses'
 import Lessons from './components/Lessons/Lessons'
 import Collage from './components/Collage/Collage'
 import Career from './components/Career/Career'
+import Subscribe from './components/Subscribe/Subscribe'
 
 
 
@@ -18,6 +19,7 @@ const App = () => {
   <Lessons/>
   <Collage/>
   <Career/>
+  <Subscribe/>
   <Footer/>
     </>
   
