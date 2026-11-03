@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
   <>
-  <section className='w-full min-h-screen  '>
+  <section>
  
     <header className="w-full bg-white px-8 py-6">
       <div className="max-w-[1300px ] mx-auto flex items-center justify-between">

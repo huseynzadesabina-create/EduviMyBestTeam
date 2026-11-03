@@ -1,23 +1,24 @@
 import React from 'react'
-import Header from "./components/Header/Header"
-import Footer from "./components/Footer/Footer"
-import Ehliman from './components/Ehliman/Ehliman';
-import Vahid from './components/Vahid/Vahid';
-import Elvin from './components/Elvin/Elvin';
-import Mehemmed from './components/Mehemmed/Mehemmed';
-import Minaye from './components/Minaye/Minaye';
+import Header from './components/Header/Header'
+import Footer from './components/Footer/Footer'
+import Learning from './components/Learning/Learning'
+import Courses from './components/Courses/Courses'
+import Lessons from './components/Lessons/Lessons'
+import Collage from './components/Collage/Collage'
+import Career from './components/Career/Career'
+
 
 
 const App = () => {
   return (
     <>
-    <Header/>
-    <Ehliman/>
-    <Vahid/>
-    <Elvin/>
-    <Mehemmed/>
-    <Minaye/>
-    <Footer/>
+  <Header/>
+  <Learning/>
+  <Courses/>
+  <Lessons/>
+  <Collage/>
+  <Career/>
+  <Footer/>
     </>
   
    
