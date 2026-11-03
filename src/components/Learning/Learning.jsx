@@ -2,7 +2,7 @@ import React from 'react'
 import myImage from "../../assets/emage_learning.png";
 const Learning = () => {
   return (
-    <div className='w-full h-[90vh]  flex justify-center pb-[50px]'>
+    <div className='w-full h-[90vh] px-13.75  flex justify-center pb-[50px]'>
       <div className='w-[96%] h-full flex items-center'>
         <div className='h-[60%] w-[100%]'>
           <div className='h-full w-[100%] flex flex-col justify-between'>

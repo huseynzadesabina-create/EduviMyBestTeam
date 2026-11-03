@@ -1,12 +1,14 @@
 import React from 'react'
-import E1 from '../../../../../Eduvi/EduviMyBestTeam/src/components/Subscribe/E1.png'
-import E2 from '../../../../../Eduvi/EduviMyBestTeam/src/components/Subscribe/E2.png'
-import E3 from '../../../../../Eduvi/EduviMyBestTeam/src/components/Subscribe/E3.png'
-import E4 from '../../../../../Eduvi/EduviMyBestTeam/src/components/Subscribe/E4.png'
-import E5 from '../../../../../Eduvi/EduviMyBestTeam/src/components/Subscribe/E5.png'
-import E6 from '../../../../../Eduvi/EduviMyBestTeam/src/components/Subscribe/E6.png'
+import E1 from './E1.png'
+import E2 from './E2.png'
+import E3 from './E3.png'
+import E4 from './E4.png'
+import E5 from './E5.png'
+import E6 from './E6.png'
 
-const Subscribe = () => {
+
+
+ const Subscribe = () => {
   return (
     <main className=' w-full h-screen flex items-center justify-center p-[0_140px]'>
 
@@ -27,7 +29,7 @@ const Subscribe = () => {
 
         {/* Orta  */}
         <div className="sec-2 w-[50%] h-[100%] flex flex-col items-center justify-center gap-3 text-center">
-          <div className="text text-center gap-9 h-[300px] w-[100%] flex flex-col items-center justify-center text-center">
+          <div className="text text- center gap-9 h-[300px] w-[100%] flex flex-col items-center justify-center text-center">
             <h1 className='text-6xl text-[#F7F5FB] leading-19 font-bold relative'>
               Subscribe For Get Update Every New Courses
             </h1>

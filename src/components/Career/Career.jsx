@@ -1,5 +1,5 @@
 import React from 'react'
-import Student from '../../../../../Eduvi/EduviMyBestTeam/src/components/Career/Student.png'
+import Student from './Student.png'
 
 const Career = () => {
   return (
