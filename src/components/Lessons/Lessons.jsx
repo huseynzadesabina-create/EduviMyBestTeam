@@ -10,7 +10,7 @@ import Sekkiz from "../../assets/elvin-img/8.svg"
 const Lessons = () => {
   return (
     <>
-    <div className="lesson flex flex-col gap-9 items-center justify-center px-9 py-0">
+    <div className="lesson flex flex-col gap-9 items-center justify-center px-23 py-0 bg-[#F7F5FA] font-Arial ">
       <div className="less-head flex flex-col items-center justify-center gap-9">
         <h1 className="font-bold text-3xl">Qualified lessons for students</h1>
         <p>A lesson or class is a structured period of time where learning is intended to occur. It <br /> involves one or more students being taught by a teacher or instructor.</p>

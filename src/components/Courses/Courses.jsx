@@ -9,7 +9,7 @@ import recordedIcon from './assets/recorded-icon.png'
 
 const Courses = () => {
   return (
-    <section className="w-full py-16 md:py-24 bg-white">
+    <section className="w-full py-16 md:py-24 bg-[#F7F5FA] font-Arial">
       <div className="w-full max-w-[1440px] mx-auto px-4 sm:px-8 lg:px-[140px]">
         <div className="text-center max-w-[800px] mx-auto">
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-[45px] font-bold text-[#0A033C] leading-[1.25] tracking-tight">

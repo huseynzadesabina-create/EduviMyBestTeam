@@ -7,7 +7,7 @@ const Header = () => {
   <>
   <section>
  
-    <header className="w-full  px-35   py-6 bg-[#F7F5FA]">
+    <header className="w-full  px-35   py-6 bg-[#F7F5FA] font-Arial">
       <div className="max-w-[1300px ] mx-auto flex items-center justify-between">
 
        

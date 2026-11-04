@@ -2,7 +2,7 @@ import React from 'react'
 import myImage from "../../assets/emage_learning.png";
 const Learning = () => {
   return (
-    <div className='w-full h-[90vh] px-13.75  flex justify-center pb-[50px]'>
+    <div className='w-full h-[90vh] px-13.75  flex justify-center pb-[50px] bg-[#F7F5FA] font-Arial'>
       <div className='w-[96%] h-full flex items-center'>
         <div className='h-[60%] w-[100%]'>
           <div className='h-full w-[100%] flex flex-col justify-between'>
@@ -31,7 +31,7 @@ const Learning = () => {
 
         </div>
         <div className='h-full w-[100%] flex justify-end'>
-          <div className='w-[80%] h-[100%]'>
+          <div className='w-[80%] h-[90%]'>
             <img src={myImage} alt="sekil" className='w-[100%] h-[100%] ' />
           </div>
         </div>

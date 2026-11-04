@@ -5,7 +5,7 @@ import phpIcon from "./php.png";
 
 export default function Collage() {
   return (
-    <section className="flex min-h-screen w-full items-center bg-[#F8F7FC] px-5 py-8 sm:px-10 lg:h-screen lg:px-[140px] lg:py-10">
+    <section className="flex min-h-screen w-full items-center bg-[#F8F7FC] px-5 py-8 sm:px-10 lg:h-screen lg:px-[140px] lg:py-10 font-Arial">
       <div className="relative isolate mx-auto w-full max-w-[1440px] overflow-hidden rounded-[24px] bg-[#EDE9F3] lg:h-full lg:max-h-[800px]">
         {/* Mətn hissəsi */}
         <div className="relative z-20 flex flex-col items-start px-7 py-12 sm:px-12 lg:h-full lg:w-[48%] lg:justify-center lg:py-10 lg:pl-[6%] lg:pr-0">
